@@ -1,0 +1,63 @@
+1.	Using the Bootstrap CDN makes:
+
+	c. Will make extra http connection
+	
+2.	Bootstrap is a free front-end framework
+
+	a. true
+
+3.	Extra large devices are defined as having a screen width from
+
+  c. 1200 pixels and above
+4.	The Bootstrap grid system is based on how many columns?
+
+	 b. 12
+	
+5.	In Bootstrap, content must be placed within...
+
+	 b. columns
+
+6.	What class name would you make a full width container in Bootstrap?
+
+	 b. container-fluid
+
+7.	If you want to have 3 equal columns in Bootstrap, which class would you use?
+
+.	 d. col-md-4
+
+8.	What does this meta tag do? <meta name="viewport" content="width=device-width, initial-scale=1">
+
+	 c. Prevents browsers from scaling desktop websites on mobile
+   
+9.	A big challenge with responsive design is finding a balance between the content needs for both mobile and desktop. A desktop site has a lot of visual real estate that is often filled with carousels, videos, large parallax background images, and large blocks of text.
+
+    b. false
+
+10.	What Bootstrap version should you use if you need to support IE9?
+	a. bootstrap 3
+
+11.	Flexbox is NOT a core CSS technology but a custom named component created by Bootstrap.
+	a. true
+
+12.	What are the three main elements of the Bootstrap grid listed in the proper order.
+	a. CRC
+
+13.	Fill in the blank: Setting a grid tier of .col-sm-6 says
+	a. Make this div 6 columns wide on the sm breakpoint and everything ABOVE
+
+14.	Which of the following bootstrap style of button makes the button size large?
+	a. btn-lg
+
+15.	Which Of The Following Contextual Class Is Used For Warning Purpose?
+
+	b. .warning
+
+16.	Which of the following is not a class of bootstrap's text color?
+
+	d. text-allowed
+  
+17.	The Carousel is a component
+
+   b. For cycling through elements like slideshow
+
+
